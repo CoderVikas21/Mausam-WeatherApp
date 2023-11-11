@@ -13,7 +13,7 @@
   * css
     
 # Websites
-  * Link - https://codervikas21.github.io/WeatherApp/   
+  * Link - https://codervikas21.github.io/Mausam-WeatherApp/ 
 
 Contributing
 ==========
